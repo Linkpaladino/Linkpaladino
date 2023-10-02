@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LinkPaladino 😁
+## Bem-vindo(a) ao perfil do LinkPaladino 👾
 
  <div>
    <a href="https://github.com/Linkpaladino">
