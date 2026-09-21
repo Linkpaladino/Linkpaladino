@@ -31,7 +31,7 @@
 
 <div align="center">
 
-# Hi, I'm Ismael Filipe 👋
+# Ismael Filipe or LinkpaladinØ
 
 ### Software Development • Data • Automation
 
@@ -47,11 +47,13 @@ I like building practical solutions, exploring new technologies and turning idea
 <!--                    ABOUT ME                            -->
 <!-- ===================================================== -->
 
-## 👨‍💻 About Me
+<div align="center">
 
 I'm interested in **software development, data and automation**, especially when technology can be used to solve real-world problems.
 
 I enjoy learning how things work, building my own tools and finding better ways to simplify processes through code.
+
+</div>
 
 <br>
 
@@ -89,7 +91,7 @@ I enjoy learning how things work, building my own tools and finding better ways 
 <!--                TECHNOLOGY ARSENAL                      -->
 <!-- ===================================================== -->
 
-## ⚙️ Technology Arsenal
+## Technology Arsenal
 
 <div align="center">
 
@@ -98,15 +100,28 @@ I enjoy learning how things work, building my own tools and finding better ways 
   alt="Technology Stack"
 />
 
+<br><br>
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Software Development</strong></td>
+    <td>JavaScript · TypeScript · Node.js</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Automation</strong></td>
+    <td>Python · SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Workflow</strong></td>
+    <td>Git · GitHub · VS Code</td>
+  </tr>
+</table>
+
 </div>
-
-<br>
-
-| Area | Technologies |
-| :--- | :--- |
-| **Software Development** | JavaScript · TypeScript · Node.js |
-| **Data & Automation** | Python · SQL |
-| **Tools & Workflow** | Git · GitHub · VS Code |
 
 <br>
 
