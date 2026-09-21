@@ -26,9 +26,9 @@
 <h1>Ismael Filipe | LinkpaladinØ</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=30&lines=Software+Development;Data;Automation"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=28&lines=Software+Development;Data;Automation"
   alt="Software Development, Data and Automation"
-  height="30"
+  height="28"
 />
 
 <br><br>
@@ -40,7 +40,6 @@
 I like building practical solutions, exploring new technologies and turning ideas into useful tools.
 
 </div>
-
 ---
 
 <!-- ===================================================== -->
