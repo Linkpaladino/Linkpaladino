@@ -5,8 +5,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile"
-  alt="Welcome to my profile"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%2B+Welcome+to+my+profile+%2B"
+  alt="+ Welcome to my profile +"
 />
 
 </div>
@@ -29,8 +29,8 @@
 
 <div>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=35&lines=Software+Development;Data;Automation"
-    alt="Software Development, Data and Automation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=35&lines=Software+Development;Data;Automation;Design"
+    alt="Software Development, Data, Automation and Design"
     height="35"
   />
 </div>
@@ -38,7 +38,7 @@
 <div><sup><sup>&nbsp;</sup></sup></div>
 
 <div>
-  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://github.com/Linkpaladino?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" /></a>
+  <a href="https://www.linkedin.com/in/ismaaelfiliipe/"><img src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:Ismaelfilipe789@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://github.com/Linkpaladino?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" /></a>
 </div>
 
 <div><sup><sup>&nbsp;</sup></sup></div>
