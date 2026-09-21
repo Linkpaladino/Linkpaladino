@@ -44,7 +44,7 @@
 <div><sup><sup>&nbsp;</sup></sup></div>
 
 <div>
-  I'm interested in <strong>software development, data and automation</strong>, especially when technology can be used to solve real-world problems. I enjoy exploring new technologies, building practical tools, and finding better ways to simplify processes through code.
+  Hi! I'm <strong>Ismael Filipe</strong>, also known online as <strong>LinkpaladinØ</strong>. I'm a graduate in <strong>Systems Analysis and Development</strong> with a strong interest in hardware, data, automation, web development, design and visual identity. I enjoy turning ideas into practical solutions, building useful tools and using programming to simplify processes and make technology more accessible and efficient.
 </div>
 
 </div>
@@ -62,7 +62,7 @@
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github,vscode"
+  src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,electron,git,github,postgres,ps&perline=5"
   alt="Technology Stack"
 />
 
@@ -74,16 +74,20 @@
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><strong>Software Development</strong></td>
-    <td>JavaScript · TypeScript · Node.js</td>
+    <td><strong>Development</strong></td>
+    <td>JavaScript · TypeScript · React · Node.js · Electron</td>
   </tr>
   <tr>
     <td><strong>Data & Automation</strong></td>
-    <td>Python · SQL</td>
+    <td>Python · PostgreSQL</td>
   </tr>
   <tr>
-    <td><strong>Tools & Workflow</strong></td>
-    <td>Git · GitHub · VS Code</td>
+    <td><strong>Tools & Version Control</strong></td>
+    <td>Git · GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>Design</strong></td>
+    <td>Adobe Photoshop</td>
   </tr>
 </table>
 
