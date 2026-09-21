@@ -23,6 +23,10 @@
 <!--                  INTRODUCTION                         -->
 <!-- ===================================================== -->
 
+<!-- ===================================================== -->
+<!--                  INTRODUCTION                         -->
+<!-- ===================================================== -->
+
 <div align="center">
 
 <h1>Ismael Filipe | LinkpaladinØ</h1>
@@ -35,13 +39,13 @@
   />
 </div>
 
-<div><sub>&nbsp;</sub></div>
+<div><sup><sup>&nbsp;</sup></sup></div>
 
 <div>
   <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://github.com/Linkpaladino?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" /></a>
 </div>
 
-<div><sub>&nbsp;</sub></div>
+<div><sup><sup>&nbsp;</sup></sup></div>
 
 <div>
   I like building practical solutions, exploring new technologies and turning ideas into useful tools.
