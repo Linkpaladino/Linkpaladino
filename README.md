@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile"
   alt="Welcome to my profile"
 />
 
@@ -17,11 +17,9 @@
 <!--                       HERO                            -->
 <!-- ===================================================== -->
 
-<!--
-  HERO / BANNER
-
-  Vamos criar essa parte no final.
--->
+<div align="center">
+  <img src="./src/banner-temp.png" alt="Ismael Filipe Banner" width="100%" />
+</div>
 
 <br>
 
@@ -31,7 +29,7 @@
 
 <div align="center">
 
-# Ismael Filipe or LinkpaladinØ
+# Ismael Filipe | LinkpaladinØ
 
 ### Software Development • Data • Automation
 
@@ -44,7 +42,7 @@ I like building practical solutions, exploring new technologies and turning idea
 ---
 
 <!-- ===================================================== -->
-<!--                    ABOUT ME                            -->
+<!--                    ABOUT ME                           -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -60,7 +58,7 @@ I enjoy learning how things work, building my own tools and finding better ways 
 ---
 
 <!-- ===================================================== -->
-<!--                  CONNECT WITH ME                       -->
+<!--                  CONNECT WITH ME                      -->
 <!-- ===================================================== -->
 
 ## 🤝 Connect with Me
@@ -69,14 +67,14 @@ I enjoy learning how things work, building my own tools and finding better ways 
 
 <a href="SEU_LINK_DO_LINKEDIN">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:SEU_EMAIL">
   <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -88,7 +86,7 @@ I enjoy learning how things work, building my own tools and finding better ways 
 ---
 
 <!-- ===================================================== -->
-<!--                TECHNOLOGY ARSENAL                      -->
+<!--                TECHNOLOGY ARSENAL                     -->
 <!-- ===================================================== -->
 
 ## Technology Arsenal
@@ -124,19 +122,3 @@ I enjoy learning how things work, building my own tools and finding better ways 
 </div>
 
 <br>
-
-<!-- ===================================================== -->
-<!--                  FUTURE SECTIONS                       -->
-<!-- ===================================================== -->
-
-<!--
-
-Quando o perfil crescer:
-
-## 🚀 Projects
-
-## 📊 GitHub Stats
-
-## 🐍 Contributions
-
--->
