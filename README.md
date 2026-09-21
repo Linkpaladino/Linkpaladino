@@ -62,11 +62,11 @@
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,electron,git,github,postgres,ps&perline=5"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,python,postgres,git,github,figma,ps&perline=6"
   alt="Technology Stack"
 />
 
-<br><br>
+<div><sup><sup>&nbsp;</sup></sup></div>
 
 <table>
   <tr>
@@ -74,20 +74,24 @@
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><strong>Development</strong></td>
-    <td>JavaScript · TypeScript · React · Node.js · Electron</td>
+    <td><strong>Web Development</strong></td>
+    <td>HTML · CSS · JavaScript · TypeScript · React</td>
   </tr>
   <tr>
-    <td><strong>Data & Automation</strong></td>
-    <td>Python · PostgreSQL</td>
+    <td><strong>Runtime & Automation</strong></td>
+    <td>Node.js · Python</td>
   </tr>
   <tr>
-    <td><strong>Tools & Version Control</strong></td>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
     <td>Git · GitHub</td>
   </tr>
   <tr>
     <td><strong>Design</strong></td>
-    <td>Adobe Photoshop</td>
+    <td>Figma · Adobe Photoshop</td>
   </tr>
 </table>
 
