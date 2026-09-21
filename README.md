@@ -75,15 +75,11 @@
   </tr>
   <tr>
     <td><strong>Web Development</strong></td>
-    <td>HTML · CSS · JavaScript · TypeScript · React</td>
+    <td>HTML · CSS · JavaScript · TypeScript · React · Node.js</td>
   </tr>
   <tr>
-    <td><strong>Runtime & Automation</strong></td>
-    <td>Node.js · Python</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL</td>
+    <td><strong>Data & Automation</strong></td>
+    <td>Python · PostgreSQL</td>
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
