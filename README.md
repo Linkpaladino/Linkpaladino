@@ -23,10 +23,6 @@
 <!--                  INTRODUCTION                         -->
 <!-- ===================================================== -->
 
-<!-- ===================================================== -->
-<!--                  INTRODUCTION                         -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <h1>Ismael Filipe | LinkpaladinØ</h1>
@@ -48,22 +44,8 @@
 <div><sup><sup>&nbsp;</sup></sup></div>
 
 <div>
-  I like building practical solutions, exploring new technologies and turning ideas into useful tools.
+  I'm interested in <strong>software development, data and automation</strong>, especially when technology can be used to solve real-world problems. I enjoy exploring new technologies, building practical tools, and finding better ways to simplify processes through code.
 </div>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-I'm interested in **software development, data and automation**, especially when technology can be used to solve real-world problems.
-
-I enjoy learning how things work, building my own tools and finding better ways to simplify processes through code.
 
 </div>
 
