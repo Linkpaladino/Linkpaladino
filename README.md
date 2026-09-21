@@ -3,12 +3,10 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile"
-  alt="Welcome to my profile"
-/>
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile"
+    alt="Welcome to my profile"
+  />
 </div>
 
 <!-- ===================================================== -->
@@ -24,40 +22,10 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
-# Ismael Filipe | LinkpaladinØ
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=35&lines=Software+Development;Data;Automation"
-  alt="Software Development, Data and Automation"
-  height="35"
-/>
-
-<br>
-
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img
-    src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-<a href="https://github.com/Linkpaladino?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white"
-    alt="Public Repositories"
-  />
-</a>
-
-<p>
-I like building practical solutions, exploring new technologies and turning ideas into useful tools.
-</p>
-
+  <h1>Ismael Filipe | LinkpaladinØ</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=500&height=28&lines=Software+Development;Data;Automation" alt="Software Development, Data and Automation" height="28" /><br>
+  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://github.com/Linkpaladino?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" /></a>
+  <p>I like building practical solutions, exploring new technologies and turning ideas into useful tools.</p>
 </div>
 
 ---
