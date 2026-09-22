@@ -16,7 +16,7 @@
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="./src/banner.png" alt="Ismael Filipe Banner" width="100%" />
+  <img src="./src/banner.png" alt="Linkpaladino Banner" width="100%" />
 </div>
 
 <!-- ===================================================== -->
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<h1>Ismael Filipe | LinkpaladinØ</h1>
+<h1> LinkpaladinØ </h1>
 
 <div>
   <img
