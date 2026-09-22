@@ -16,7 +16,7 @@
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="./src/banner-temp.png" alt="Ismael Filipe Banner" width="100%" />
+  <img src="./src/banner.png" alt="Ismael Filipe Banner" width="100%" />
 </div>
 
 <!-- ===================================================== -->
